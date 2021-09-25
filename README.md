@@ -7,3 +7,5 @@
   open cmd or terminal
 
   type ```pip install turtle```
+  
+  press enter.
