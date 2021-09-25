@@ -1,4 +1,4 @@
-import turtle , keyboard ,random
+import turtle,keyboard,random
 
 # Create screen
 sc = turtle.Screen()
@@ -114,8 +114,9 @@ rn = 0
 
 while True:
 	sc.update()
-
-	rn2 = random.randint(2,6)
+		
+	# Computer move paddle 	
+	rn2 = random.randint(2,6) 
 	if hit_ball.xcor() < 100 :
 		
 		rn = random.randint(10,50)
