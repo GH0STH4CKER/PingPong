@@ -6,4 +6,4 @@
 
   open cmd or terminal
 
-  type '''pip install turtle'''
+  type ```pip install turtle```
