@@ -1,6 +1,6 @@
 import turtle,keyboard,random
 
-# Create screen
+# Create Screen
 sc = turtle.Screen()
 sc.title("Ping Pong Game")
 sc.bgcolor('black') #(0.75,0.84,0.92)
