@@ -1,5 +1,7 @@
 ## Python Ping Pong Game
 
+[![Github All Releases](https://img.shields.io/github/downloads/GH0STH4CKER/PingPong/total.svg)]()
+
 ### 2 Player & 1 Player(vs COM) available
 
 <img src= https://user-images.githubusercontent.com/62290930/132698048-404e3d6c-1ac6-4fd3-8cad-bcc294144bf6.png  width = 600  >
